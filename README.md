@@ -1,16 +1,17 @@
-### Hi there 👋
+- ## 💡 About
 
-<!--
-**SORMaker/SORMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Hi! Here is SORMaker. I mainly focus on common Computer Vision topics including object detection and image segmentation, etc. 
 
-Here are some ideas to get you started:
+  When I'm free, I enjoy [📖 reading](), watching [🎬 movies]() and [📺 anime](), and listening to [🎧 music](). I also work on useful/useless side projects from time to time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  If you're interested, please checkout my personal [✏️ blog](https://www.baidu.com) where I share my ordinary yet joyful life. 
+
+  Feel free to contact me via <a href="mailto:x19953326299@outlook.com">Email</a> or [Telegram](https://t.me/).
+
+  ## 📊 Stats
+
+  | <a href="https://github.com/SORMaker"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SORMaker&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="SORMaker's github stats" /></a> | <a href="https://github.com/SORMaker"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SORMaker&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  |                                                              |                                                              |
+
+  
