@@ -2,9 +2,9 @@
 
   Hi! Here is SORMaker. I mainly focus on common Computer Vision topics including object detection and image segmentation, etc. 
 
-  When I'm free, I enjoy [📖 reading](), watching [🎬 movies]() and [📺 anime](), and listening to [🎧 music](). I also work on useful/useless side projects from time to time.
+  When I'm free, I enjoy [📖 reading](Educated), watching [🎬 movies](The Shawshank Redemption) and [📺 anime](), and listening to [🎧 music](Weater). I also work on useful/useless side projects from time to time.
 
-  If you're interested, please checkout my personal [✏️ blog](https://www.baidu.com) where I share my ordinary yet joyful life. 
+  If you're interested, please checkout my personal [✏️ blog](not haven yet) where I share my ordinary yet joyful life. 
 
   Feel free to contact me via <a href="mailto:x19953326299@outlook.com">Email</a> or [Telegram](https://t.me/).
 
