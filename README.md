@@ -2,7 +2,7 @@
 
   Hi! Here is SORMaker. I mainly focus on common Computer Vision topics including object detection and image segmentation, etc. 
 
-  When I'm free, I enjoy [📖 reading](https://en.wikipedia.org/wiki/Educated_(book)), watching [🎬 movies]([The Shawshank Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption) and [📺 anime](https://en.wikipedia.org/wiki/Cowboy_Bebop), and listening to [🎧 music](https://music.163.com/#/song?id=1858811230&uct2=JaomLf8kw3BpvH4gLC1hPg%3D%3D&dlt=0846&app_version=8.8.45). I also work on useful/useless side projects from time to time.
+  When I'm free, I enjoy [📖 reading](https://en.wikipedia.org/wiki/Educated_(book)), watching [🎬 movies]([The Shawshank Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption)) and [📺 anime](https://en.wikipedia.org/wiki/Cowboy_Bebop), and listening to [🎧 music](https://music.163.com/#/song?id=1858811230&uct2=JaomLf8kw3BpvH4gLC1hPg%3D%3D&dlt=0846&app_version=8.8.45). I also work on useful/useless side projects from time to time.
 
   If you're interested, please checkout my personal [✏️ blog](not haven yet) where I share my ordinary yet joyful life. 
 
